@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dorcas-koi
+- 👋 Hi, I’m Dorcas Kairu 
 - 👀 I’m interested in ..Data analysis.
 - 🌱 I’m currently learning .Web developmentand data analysis..
 - 💞️ I’m looking to collaborate on ...
